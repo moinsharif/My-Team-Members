@@ -1,0 +1,44 @@
+/* Extra Small devices (landscape phones, 1px and up) */
+@media (min-width: 1px) {
+	img.team-img{
+		height:300px;
+	}
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+	img.team-img{
+		height:90px;
+	}
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+	img.team-img{
+		height:100px;
+	}
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+	img.team-img{
+		height:125px;
+	}
+}
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+	img.team-img{
+		height:150px;
+	}
+}
+
+/* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) {
+	img.team-img{
+		height:150px;
+	}
+}
+
+.team-members .row{
+	padding:5px;
+}
